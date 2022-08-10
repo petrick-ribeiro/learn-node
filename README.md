@@ -1,4 +1,4 @@
-# Node Study
+# Learn NodeJS
 
-### :memo: Some NodeJS stuff i'm working on.
-> The porpose of this repo is learn Back-End Development using JavaScript.
+### :memo: Some NodeJS stuff i'm learning.
+> This repo is focused on Back-End Development using JavaScript.
